@@ -1,31 +1,6 @@
-<p align="center">
-  <h1 align="center">🧠 Engram</h1>
-  <p align="center">
-    <strong>Cognitive Memory System for AI Agents</strong>
-  </p>
-  <p align="center">
-    Persistent semantic search · Knowledge graph · Sleep consolidation · Zero external APIs
-  </p>
-  <p align="center">
-    <a href="#quick-start">Quick Start</a> ·
-    <a href="#architecture">Architecture</a> ·
-    <a href="#features">Features</a> ·
-    <a href="#research-foundations">Research</a> ·
-    <a href="#cli-reference">CLI</a> ·
-    <a href="SKILLS/engram/SKILL.md">Agent Integration</a>
-  </p>
-</p>
+Start of AI agents memory project. Using Engram as a template. 
 
-<br/>
-
-> **Engram** gives AI agents a brain — not a database.
-> It remembers what matters, forgets what doesn't, and builds connections between ideas.
-> All inference runs **locally** — no API keys, no cloud, no token cost per memory operation.
-
-<br/>
-
-## Why Engram?
-
+---
 Most AI memory solutions (like [Mem0](https://github.com/mem0ai/mem0)) use LLM calls for every `add()` — extracting facts, classifying operations, resolving conflicts. That's powerful, but **expensive** and **opaque**.
 
 Engram takes a different approach:
